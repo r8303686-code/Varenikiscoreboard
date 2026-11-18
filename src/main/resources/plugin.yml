@@ -1,0 +1,13 @@
+
+name: VarenikiScoreboard
+version: 1.0.0
+main: ru.vareniki.scoreboard.VarenikiScoreboard
+api-version: '1.21'
+author: Vareniki
+description: Custom gradient scoreboard for VarenikiSMP
+
+softdepend:
+  - Vault
+  - LuckPerms
+  - PlaceholderAPI
+  
